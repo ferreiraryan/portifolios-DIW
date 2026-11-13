@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 56" fill="none" role="img" aria-label="PUC Minas">
+  <!-- Brasão estilizado PUC Minas -->
+  <path
+    d="M8 8C8 5.79086 9.79086 4 12 4H44C46.2091 4 48 5.79086 48 8V27C48 39.2 35.8 47.6 28 51.5C20.2 47.6 8 39.2 8 27V8Z"
+    fill="#003B71"
+    stroke="#60A5FA"
+    stroke-width="2"
+  />
+  <path
+    d="M28 11V41M17 22H39"
+    stroke="#FFFFFF"
+    stroke-width="2.6"
+    stroke-linecap="round"
+  />
+  <path
+    d="M19 32C21.5 34.5 24.5 36 28 36C31.5 36 34.5 34.5 37 32"
+    stroke="#93C5FD"
+    stroke-width="2"
+    stroke-linecap="round"
+  />
+  <!-- Tipografia PUC Minas -->
+  <text
+    x="62"
+    y="28"
+    fill="#FFFFFF"
+    font-family="Plus Jakarta Sans, system-ui, -apple-system, sans-serif"
+    font-size="22"
+    font-weight="800"
+    letter-spacing="0.04em"
+  >PUC</text>
+  <text
+    x="114"
+    y="28"
+    fill="#93C5FD"
+    font-family="Plus Jakarta Sans, system-ui, -apple-system, sans-serif"
+    font-size="22"
+    font-weight="600"
+    letter-spacing="0.01em"
+  >Minas</text>
+  <text
+    x="62"
+    y="44"
+    fill="#98A2B3"
+    font-family="Plus Jakarta Sans, system-ui, -apple-system, sans-serif"
+    font-size="10.5"
+    font-weight="600"
+    letter-spacing="0.08em"
+  >OFICINA DE DIW</text>
+</svg>

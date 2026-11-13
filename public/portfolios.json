@@ -1,0 +1,175 @@
+[
+  {
+    "id": "ryan-ferreira-5cuo",
+    "nome": "Ryan Ferreira",
+    "link": "https://ryanferreira.dev",
+    "periodo": "2026/2",
+    "repoUrl": "https://github.com/ferreiraryan",
+    "embeddable": true
+  },
+  {
+    "id": "bicalho",
+    "nome": "Arthur Bicalho Angelo",
+    "link": "https://bicalho.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": true,
+    "embedNote": "Bloqueado por X-Frame-Options: DENY"
+  },
+  {
+    "id": "nicolasdealmeida",
+    "nome": "Nicolas de Almeida",
+    "link": "https://nicolasdealmeida.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": true
+  },
+  {
+    "id": "pedrobastos",
+    "nome": "Pedro Felipe Bastos",
+    "link": "https://pedrobastos.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": true
+  },
+  {
+    "id": "evelyncosta",
+    "nome": "Evelyn Costa",
+    "link": "https://evelyncosta.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": true
+  },
+  {
+    "id": "armandosmoreira",
+    "nome": "Armando Moreira",
+    "link": "https://armandosmoreira.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": true
+  },
+  {
+    "id": "dvdaurelio",
+    "nome": "Davi Aurélio",
+    "link": "https://dvdaurelio.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": true
+  },
+  {
+    "id": "elidias",
+    "nome": "Eli Dias",
+    "link": "https://elidias.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": true
+  },
+  {
+    "id": "lukasgomes",
+    "nome": "Lucas Gomes",
+    "link": "https://lukasgomes.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": true
+  },
+  {
+    "id": "arthurgabriel",
+    "nome": "Arthur Gabriel",
+    "link": "https://arthurgabriel.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": true
+  },
+  {
+    "id": "bernardoguedes",
+    "nome": "Bernardo Guedes",
+    "link": "https://bernardoguedes.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": true
+  },
+  {
+    "id": "diegoportella",
+    "nome": "Diego Portella",
+    "link": "https://diegoportella.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": true
+  },
+  {
+    "id": "paulo-cesar",
+    "nome": "Paulo César",
+    "link": "https://paulo-cesar.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": true
+  },
+  {
+    "id": "igorcosta",
+    "nome": "Igor Costa",
+    "link": "https://igorcosta.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": false,
+    "embedNote": "Site indisponível ou erro TLS na verificação"
+  },
+  {
+    "id": "victorcandido",
+    "nome": "Victor Cândido Leite",
+    "link": "https://victorcandido.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": true
+  },
+  {
+    "id": "davisollar",
+    "nome": "Davi Sollar",
+    "link": "https://davisollar.me",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": true
+  },
+  {
+    "id": "engsoftmarcelo",
+    "nome": "Marcelo Gomes",
+    "link": "https://engsoftmarcelo.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": false,
+    "embedNote": "Bloqueado por X-Frame-Options: DENY"
+  },
+  {
+    "id": "arturbomtempo",
+    "nome": "Artur Bomtempo",
+    "link": "https://arturbomtempo.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": false,
+    "embedNote": "Bloqueado por X-Frame-Options: DENY"
+  },
+  {
+    "id": "warlleys",
+    "nome": "Warlley",
+    "link": "https://warlleys.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": false,
+    "embedNote": "Bloqueado por X-Frame-Options: SAMEORIGIN"
+  },
+  {
+    "id": "abneralmeida",
+    "nome": "Abner Almeida",
+    "link": "https://abneralmeida.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": true
+  },
+  {
+    "id": "bernardosaldanha",
+    "nome": "Bernardo Saldanha",
+    "link": "https://bernardosaldanha.dev",
+    "periodo": "2026/2",
+    "repoUrl": "",
+    "embeddable": true
+  }
+]

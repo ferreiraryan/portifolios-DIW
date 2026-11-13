@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/AdminPanel.tsx","./src/components/Header.tsx","./src/components/PortfolioCard.tsx","./src/components/PreviewModal.tsx","./src/data/portfolios.ts"],"version":"5.9.3"}
